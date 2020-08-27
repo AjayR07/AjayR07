@@ -20,7 +20,7 @@
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools Known:
 
 <img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python.png"/>
 <img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
@@ -45,18 +45,13 @@
 
 <br />
 
-
+### Github Stats:
 <br>
 
 ![Ajay's github stats](https://github-readme-stats.vercel.app/api?username=AjayR07&show_icons=true&theme=radical&count_private=true)
 
-
-
-
-
-<br />
 <br />
 <p align="center">
  Made with :heart:
 </p>
-<br />
+
