@@ -53,7 +53,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AjayR07)](https://github.com/AjayR07/AjayR07)
+
 <br />
 <br />
 <p align="center">
