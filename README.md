@@ -2,7 +2,7 @@
 
 ## I'm a Developer, and Student!
 
-- 🔭 I’m currently working on a Flutter App Develepment!
+- 🔭 I’m currently working on a Flutter App Development!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 💬 Ask me about Webdevelopment, Machine Learning
