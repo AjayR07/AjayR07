@@ -3,7 +3,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=AjayR07" alt="AjayR07"/> </p>
 
 
-### Hi there, I'm Ajay 👋
+### Hi there, I'm [Ajay](https://github.com/AjayR07/) 👋
 
 
 ## I'm a Developer, and Student!
