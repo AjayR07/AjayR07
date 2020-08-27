@@ -48,7 +48,7 @@
 ### Github Stats:
 
 
--![Ajay's github stats](https://github-readme-stats.vercel.app/api?username=AjayR07&show_icons=true&theme=radical&count_private=true)
+ - ![Ajay's github stats](https://github-readme-stats.vercel.app/api?username=AjayR07&show_icons=true&theme=radical&count_private=true)
 
 <br />
 <p align="center">
