@@ -6,7 +6,6 @@
 ## Hi there, I'm Ajay 👋
 
 
-
 ## I'm a Developer, and Student!
 
 - 🔭 I’m currently working on a [Attendance ERP](https://attendance.kecstudent.tech/) !
