@@ -14,7 +14,7 @@
 
 [<img align="left" alt="Ajay | Instagram" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new.png"/>](https://instagram.com/ajay_thiyo)
 [<img align="left" alt="Ajay | Twitter" width="22px" src="https://img.icons8.com/fluent/48/000000/telegram-app.png"/>](https://t.me/ajaykrish07)
-[<img align="left" alt="Ajay| LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>](www.linkedin.com/in/AjayR07)
+[<img align="left" alt="Ajay| LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/AjayR07)
 [<img align="left" alt="Ajay | Outlook" width="22px" src="https://img.icons8.com/fluent/48/000000/microsoft-outlook-2019.png"/>](mailto:ajayofficial@outlook.in)
 
 <br />
