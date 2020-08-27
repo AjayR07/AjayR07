@@ -2,7 +2,7 @@
 
 ## I'm a Developer, and Student!
 
-- 🔭 I’m currently working on a Flutter App Development!
+- 🔭 I’m currently working on a [Attendance ERP](https://attendance.kecstudent.tech/) !
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 💬 Ask me about Webdevelopment, Machine Learning
@@ -26,6 +26,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+ <img align="left" alt="PHP"  src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="26" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
@@ -39,11 +40,13 @@
 <img align="left" alt="Flutter" width="26px" src="https://img.icons8.com/color/48/000000/flutter.png"/>
 <img align="left" alt="AWS" width="26px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
 <img align="left" alt="Firebase" width="26px" src="https://img.icons8.com/color/48/000000/firebase.png"/>
+<img align="left" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="26"/> 
+<img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="26"/> 
+
 <br />
+
+
 <br />
-
-
-
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajayr07&show_icons=true" alt="ajayr07" /></p>
 
