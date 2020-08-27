@@ -50,8 +50,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajayr07&show_icons=true" alt="ajayr07" /></p>
 
-<br />
-<p align="center">
-<a href="https://linkedin.com/in/ajayr07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ajayr07" height="30" width="30" /></a>
-<a href="https://instagram.com/ajay_thiyo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ajay_thiyo" height="30" width="30" /></a>
-</p>
+
