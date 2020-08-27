@@ -1,8 +1,9 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=AjayR07" alt="AjayR07"/> </p>
+
 
 ### Hi there, I'm Ajay 👋
 
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=AjayR07" alt="AjayR07"/> </p>
 
 ## I'm a Developer, and Student!
 
