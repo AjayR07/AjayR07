@@ -4,10 +4,10 @@
 ## I'm a Developer, and Student!
 
 - 🔭 I’m currently working on a [Attendance ERP](https://attendance.kecstudent.tech/) !
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 🤣 and eager to learn new Technologies
 - 👯 I’m looking to collaborate with other developers
 - 💬 Ask me about Webdevelopment, Machine Learning
-- 🥅 2020 Goals: Explore and Contribute more to Open Source projects
+- 🥅 2021 Goals: Explore and Contribute more to Open Source projects
 - ⚡ Fun fact: I love to listen music :notes:
 
 
